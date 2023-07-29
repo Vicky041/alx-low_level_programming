@@ -24,7 +24,4 @@ list_t *add_node_end(list_t **head, const char *str);
 void free_list(list_t *head);
 
 #endif
-<<<<<<< HEAD
-=======
 
->>>>>>> b09e15da0210f917c6ca13c6c2be835174ac6ebc
